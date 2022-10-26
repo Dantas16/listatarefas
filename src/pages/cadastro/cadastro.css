@@ -1,0 +1,16 @@
+.page-cadastro {
+    padding: 1% 5%;
+}
+
+.form-ctrl {
+    display: flex;
+    flex-direction: column;
+    margin: 5% 0;
+}
+
+.form-input {
+    padding: 2%;
+    /* border-radius: 0px 10px; */
+    border: none;
+    border-bottom: 1px solid #000;
+}
